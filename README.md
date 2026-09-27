@@ -11,6 +11,8 @@ A small Windows console tool that dumps hardware and system identifiers in one s
   Hardware & System Identification Console
 ```
 
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F72%20clean-brightgreen?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/00bfbcbf492109ebf9eb514906ffac1c500d0c1229264511035f5c84976ca1a4)
+
 ## What it shows
 
 | Section | What you get |
